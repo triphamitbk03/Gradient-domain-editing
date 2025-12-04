@@ -135,10 +135,5 @@ Add your output images inside `results/`.
 
 ---
 
-## ✍️ Author
-**Tri Pham — Ho Chi Minh City University of Technology (HCMUT)**
-
----
-
 ## 📝 License
 MIT License.
